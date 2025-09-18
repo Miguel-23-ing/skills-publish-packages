@@ -9,6 +9,9 @@
 
 # Publish to GitHub Packages
 
+# Prueba
+<img width="1919" height="855" alt="image" src="https://github.com/user-attachments/assets/b2dfc45d-faf2-412b-86c7-a278c9ace65c" />
+
 _Use GitHub Actions to publish your project to a Docker image._
 
 </header>
